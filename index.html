@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CMST 386 Projects</title>
+    <link rel="stylesheet" href="project1/CSS/stylesheet-project1.css">
+
+
+
+</head>
+
+<header>
+    <h1> CMST 386 Projects </h1>
+    <nav class="navbar">
+        <a href="index.html"> Home </a>
+        <div class="dropdown">
+            <button class="dropbtn"> Project 1 </button>
+            <i class="fa fa-caret-down"></i>
+        
+            <div class="dropdown-content">
+                <a href="../index/project1/project1.html"> SEO </a>
+                <a href="../index/project1/gallery.html"> Photo Gallery </a>
+            </div>
+        </div>
+    </nav>
+
+
+
+</header>
+
+
+
+
+<ul>
+  <li> <a href= "../index/project1/project1.html"> Project 1 </a>   </li>
+  <li>Project 2</li>
+  <li>Project 3</li>
+  <li>Project 4</li>
+</ul>
+
+
+
+<footer>
+    <p>
+        Mchala Byers
+    </p>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
